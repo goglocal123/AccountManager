@@ -1,0 +1,68 @@
+.body{
+    font-family: "poppins";
+}
+
+/* Ticket Details */
+
+#Ticket-detials-box{    
+    background: #FFFFFF;
+box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+border-radius: 12px;
+}
+
+#detail-Heading{
+    border-radius: 12px 12px 0px 0px;
+    background:rgba(184, 184, 184, 0.3);
+    /* opacity: 0.3; */
+    color: #646464;
+    font-size: 90%;
+
+}
+
+.label-heads{
+    color: #888A8C;
+    font-size: 83%;
+    font-weight: 400;
+    width: 100%;
+    margin: 2% auto;
+}
+
+.lable-content{
+    font-size: 100%;
+    color:black;
+}
+
+/* Seller Details Styling */
+
+#Seller-detials-box{
+    background: #FFFFFF;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 12px;
+}
+
+/* Conatct Cards */
+
+.contact-card-header{
+
+    background: #E2E2E2;
+    border-radius: 12px 12px 0px 0px;
+    font-size: 90%;
+}
+
+.table-card-heading{
+    padding: 1%;
+    font-weight: 500;
+    color: #646464;
+}
+
+.contact-card-table-row{
+
+    border-bottom-style: solid;
+    border-bottom-width: 0.5px;
+    border-bottom-color: #E2E2E2;
+}
+
+.contact-card-table-data{
+    padding: 1%;
+    font-size: 83%;
+}
